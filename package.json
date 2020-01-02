@@ -1,0 +1,14 @@
+{
+  "name": "fernandoabreupereira-portinari-theme",
+  "version": "1.0.9",
+  "author": "",
+  "description": "Po Custom Theme - fernandoabreupereira-portinari-theme",
+  "repository": {},
+  "license": "MIT",
+  "scripts": {
+    "build": "po-theme build"
+  },
+  "devDependencies": {
+    "@portinari/style": "^1.11.0"
+  }
+}
