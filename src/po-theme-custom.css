@@ -1236,6 +1236,21 @@
   background-color: var(--color-gray-default);
 } */
 
+/* MENU HEADER */
+.po-menu-header {
+  border-right: 1px solid var(--color-neutral-light-90);
+}
+
+/* MENU BODY */
+.po-menu-body {
+  border-right: 1px solid var(--color-neutral-light-90);
+}
+
+/* MENU FOOTER */
+.po-menu-footer {
+  border-right: 1px solid var(--color-neutral-light-90);
+}
+
 /* FOOTER MENU */
 .po-menu-footer .po-menu-collapse-button-icon {
   color: var(--color-primary);
