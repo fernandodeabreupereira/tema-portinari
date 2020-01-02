@@ -9,7 +9,7 @@ npm i fernandoabreupereira-portinari-theme
 
 ## Autores
 
-* **Fernando de Abreu Pereira** - *Trabalho inicial* - [PurpleBooth](https://github.com/fernandodeabreupereira)
+* **Fernando de Abreu Pereira** - *Trabalho inicial* - [Github](https://github.com/fernandodeabreupereira)
 
 Veja também a lista de [contribuidores](https://github.com/fernandodeabreupereira/tema-portinari/contributors) que participaram deste projeto.
 
