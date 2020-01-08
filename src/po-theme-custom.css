@@ -437,11 +437,11 @@
   --color-calendar-background-color-box-background-normal: var(--color-transparent);
   --color-calendar-background-color-box-background-hover: var(--color-neutral-light-80);
   --color-calendar-background-color-box-background-disabled: var(--color-neutral-light-60);
-  --color-calendar-background-color-box-background-active: var(--color-tertiary);
+  --color-calendar-background-color-box-background-active: var(--color-primary);
   --color-calendar-background-color-mobile-overlay: var(--color-secondary-dark-60-alpha-70);
   --color-calendar-text-box-background-active: var(--color-neutral-dark-60);
 
-  --color-calendar-background-color-box-background-selected: var(--color-tertiary);
+  --color-calendar-background-color-box-background-selected: var(--color-primary);
   --color-calendar-background-color-box-background-today: var(--color-primary-light-80);
   --color-calendar-background-color-box-background-today-hover: var(--color-neutral-light-80);
 
